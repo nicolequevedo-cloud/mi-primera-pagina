@@ -20,12 +20,12 @@ Python no solo es utilizada para aquellas personas con experiencia si no que tam
 
 # Ejemplo de bloque de código en Markdown
 
-# Programa que verifica si un número es par o impar
+##Programa que verifica si un número es par o impar
 
-# Pedimos al usuario que ingrese un número
+*Pedimos al usuario que ingrese un número*
 numero = int(input("Ingrese un número: "))
 
-# Verificamos si el número es par o impar
+*Verificamos si el número es par o impar*
 if numero % 2 == 0:
     print(f"El número {numero} es par.")
 else:
@@ -33,7 +33,7 @@ else:
 
 
 # Reflexión 
-En estas semanas de clase aprendi sobre varias plataformas como *Google colab*, *Python*, *Visual studio code* las cuales en el transcurso del tiempo he ido explorando para poder tener mas conocimiento de estas plataformas 
+En estas semanas de clase aprendi sobre varias plataformas como *Google colab*, *Python*, *Visual studio code* las cuales en el transcurso del tiempo he ido explorando ya que no tenia conocimiento en lo absoluto de estas plataformas pero que me han ayudado para ir soltandome en lo que es el tema de la programación, tambien apoyandome de videos para comprender mejor las cosas, he aprendido muchas cosas de las cuales no tenia conocimiento pero que poco a poco estudiandolas se van quedando, otro tema del que se hablo en clase y del cual aprendi fue el tema del ábaco me gusto mucho saber que esta herramienta tiene todos las caracteristicas del computador y hablar en general de lo que esto contiene fue gratificante saber de ese tema y esperar comprender mas en el transcurso de las clases. 
 
 
 ### Referencia de IA 
