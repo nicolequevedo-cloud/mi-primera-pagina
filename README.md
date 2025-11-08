@@ -20,7 +20,7 @@ Python no solo es utilizada para aquellas personas con experiencia si no que tam
 
 # Ejemplo de bloque de código en Markdown
 
-##Programa que verifica si un número es par o impar
+## Programa que verifica si un número es par o impar
 
 *Pedimos al usuario que ingrese un número*
 numero = int(input("Ingrese un número: "))
