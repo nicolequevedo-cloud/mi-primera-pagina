@@ -22,6 +22,7 @@ Python no solo es utilizada para aquellas personas con experiencia si no que tam
 
 # Pedimos al usuario dos números y calculamos su suma
 num1 = float(input("Ingrese el primer número: "))
+
 num2 = float(input("Ingrese el segundo número: "))
 
 suma = num1 + num2
