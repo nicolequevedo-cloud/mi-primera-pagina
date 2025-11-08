@@ -20,16 +20,13 @@ Python no solo es utilizada para aquellas personas con experiencia si no que tam
 
 # Ejemplo de bloque de código en Markdown
 
-# Pedimos un número y verificamos si es par o impar
-numero = int(input("Ingrese un número: "))
-
+# Verificamos si un número ya definido es par o impar
+numero = 8  # Puedes cambiar este valor por cualquier número
 
 if numero % 2 == 0:
     print(f"El número {numero} es par.")
-    
 else:
     print(f"El número {numero} es impar.")
-    
 
 
 
