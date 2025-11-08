@@ -5,7 +5,7 @@
 
 *Materia:* Pensamiento algorítmico 
 
-*Institución:* IUDigital de antioquia
+*Institución:* IUDigital de antioquia.
 
 
 ## Temas vistos en clase 
