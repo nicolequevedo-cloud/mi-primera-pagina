@@ -1,9 +1,9 @@
 # Actividad 1 pensamiento algorítmico 
 
 
-*Autora:* Nicole Valentina Quevedo Franco 
+*Autora:* Nicole Valentina Quevedo Franco.
 
-*Materia:* Pensamiento algorítmico 
+*Materia:* Pensamiento algorítmico. 
 
 *Institución:* IUDigital de antioquia.
 
