@@ -1,4 +1,4 @@
-# Actividad 1 pensamiento algorítmico 
+# Actividad 1 pensamiento algorítmico.
 
 
 *Autora:* Nicole Valentina Quevedo Franco.
