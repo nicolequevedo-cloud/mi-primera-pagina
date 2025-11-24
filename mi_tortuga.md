@@ -55,11 +55,13 @@ t.right(90)
 t.forward(60)     # 6: Línea hacia abajo
 
 turtle.done()
+https://github.com/nicolequevedo-cloud/Nicole-Quevedo/blob/main/Captura%20de%20pantalla%202025-11-23%20172010.png
 
 
 
 ### Referencia IA
 ChatGPT: https://chat.openai.com
+
 
 
 
