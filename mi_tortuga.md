@@ -11,8 +11,7 @@ t.right(90)           # Gira 90° hacia la derecha (dirección hacia abajo)
 t.forward(100)        # Avanza 100 píxeles en esa dirección
 
 turtle.done()         # Mantiene la ventana abierta
-
-
+Nicole-Quevedo/blob/main/ejercicio%201%20y%202%20.png
 
 # Ejercicio 3 
 Con el siguiente codigo podemos hacer que la tortuga gire 90 grados hacia la derecha:
@@ -62,6 +61,7 @@ https://github.com/nicolequevedo-cloud/Nicole-Quevedo/blob/main/Captura%20de%20p
 
 ### Referencia IA
 ChatGPT: https://chat.openai.com
+
 
 
 
