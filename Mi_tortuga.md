@@ -1,6 +1,6 @@
 ## Tarea 2 - Ejercicios de la unidad 1 movimiento de una tortuga 
 
-#Ejercicio 1 y 2
+# Ejercicio 1 y 2
 
 En este paso hicimos y creamos la tortuga para que su dirección fuera hacia abajo con el siguiente codigo:
 ```python
@@ -73,6 +73,7 @@ https://github.com/nicolequevedo-cloud/Nicole-Quevedo/blob/main/Captura%20de%20p
 
 ### Referencia IA
 ChatGPT: https://chat.openai.com
+
 
 
 
