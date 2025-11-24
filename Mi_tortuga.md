@@ -1,6 +1,7 @@
 ## Tarea 2 - Ejercicios de la unidad 1 movimiento de una tortuga 
 
 #Ejercicio 1 y 2
+
 En este paso hicimos y creamos la tortuga para que su dirección fuera hacia abajo con el siguiente codigo:
 ```python
 import turtle
@@ -18,6 +19,7 @@ En esta imagen vemos la direccion que toma la tortuga.
 https://github.com/nicolequevedo-cloud/Nicole-Quevedo/blob/main/ejercicio%201%20y%202%20.png
 
 # Ejercicio 3 
+
 Con el siguiente codigo podemos hacer que la tortuga gire 90 grados hacia la derecha:
 
 ```python
@@ -37,6 +39,7 @@ https://github.com/nicolequevedo-cloud/Nicole-Quevedo/commit/b7edd2cc2c74ad76bc4
 
 
 # Ejercicio 4 y 5
+
 en este paso juntamos los anteriores codigos y le ponemos la funcion left (realiza lo que ya esta hecho pero en forma de cadena) para que la tortuga baje en forma de escalerita con los siguientes codigo:
 
 ```python
@@ -63,13 +66,14 @@ t.forward(60)     # 6: Línea hacia abajo
 turtle.done()
 ```
 
-aqui podemos ver como baja las escaleras.
+Aqui podemos ver como baja las escaleras.
 https://github.com/nicolequevedo-cloud/Nicole-Quevedo/blob/main/Captura%20de%20pantalla%202025-11-23%20172010.png
 
 
 
 ### Referencia IA
 ChatGPT: https://chat.openai.com
+
 
 
 
